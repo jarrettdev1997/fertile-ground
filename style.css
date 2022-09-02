@@ -1,5 +1,4 @@
 * {
-    margin: o;
     padding: 0;
 }
 
@@ -23,3 +22,9 @@ header nav ul li {
     display: inline;
     margin: 20px;
 }
+
+footer h2 div {
+    text-align: left;
+    display: inline;
+}
+
