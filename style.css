@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #008008;
+    background-color: white;
 }
 
 nav {
@@ -18,9 +18,14 @@ header h1 {
     text-decoration: none;
 }
 
-header nav ul li {
-    display: inline;
-    margin: 20px;
+nav ul li {
+   display: inline;
+   text-align: center;
+   margin: 20px;
+}
+
+section h2 {
+    text-align: center;
 }
 
 footer h2 div {
